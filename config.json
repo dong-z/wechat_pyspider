@@ -1,0 +1,8 @@
+{
+    "webui": {
+    "username": "some_name",
+    "password": "some_passwd",
+    "need-auth": true,
+	"port":5001
+  }
+}
